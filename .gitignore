@@ -1,0 +1,25 @@
+# R Blogdown
+blogdown
+public
+
+# R Common
+.Rhistory
+.Rproj.user
+.RData
+.Ruserdata
+
+# VS Code
+.vscode
+
+# Data
+*.zip
+*.tgz
+*.gz
+*.tar
+
+# Outputs
+outputs
+
+# System
+.DS_Store
+Thumbs.db
